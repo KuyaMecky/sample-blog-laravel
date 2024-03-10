@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Filament\Resources;
+namespace Pboivin\FilamentPeek\Tables\Actions;
 
 use App\Filament\Fields\PageContent;
 use App\Filament\Resources\PageResource\Pages;

@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Filament\Resources;
-
+namespace Pboivin\FilamentPeek\Tables\Actions;
 use App\Filament\Fields\PostContent;
 use App\Filament\Fields\PostFooter;
 use App\Filament\Resources\PostResource\Pages;
@@ -14,6 +14,7 @@ use Filament\Tables\Table;
 use Illuminate\Support\Str;
 use Pboivin\FilamentPeek\Forms\Actions\InlinePreviewAction;
 use Pboivin\FilamentPeek\Tables\Actions\ListPreviewAction;
+
 
 class PostResource extends Resource
 {
