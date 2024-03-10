@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6d3dc0dd564e89cc5f425f95988568ee",
+    "content-hash": "50d46fa20e38fadc57a685303962ff7a",
     "packages": [
         {
             "name": "anourvalar/eloquent-serialize",
@@ -4135,16 +4135,16 @@
         },
         {
             "name": "pboivin/filament-peek",
-            "version": "v2.2.4",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pboivin/filament-peek.git",
-                "reference": "209ad951eed4285385d560935ec9b5ff4d1f3547"
+                "reference": "1768fceb61d35cfa8bd3752408bc7d829028126a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pboivin/filament-peek/zipball/209ad951eed4285385d560935ec9b5ff4d1f3547",
-                "reference": "209ad951eed4285385d560935ec9b5ff4d1f3547",
+                "url": "https://api.github.com/repos/pboivin/filament-peek/zipball/1768fceb61d35cfa8bd3752408bc7d829028126a",
+                "reference": "1768fceb61d35cfa8bd3752408bc7d829028126a",
                 "shasum": ""
             },
             "require": {
@@ -4164,8 +4164,7 @@
                 "phpstan/extension-installer": "^1.1",
                 "phpstan/phpstan-deprecation-rules": "^1.0",
                 "phpstan/phpstan-phpunit": "^1.0",
-                "spatie/invade": "^1.1",
-                "symfony/polyfill-php82": "^1.28"
+                "spatie/invade": "^1.1"
             },
             "type": "library",
             "extra": {
@@ -4203,9 +4202,9 @@
             ],
             "support": {
                 "issues": "https://github.com/pboivin/filament-peek/issues",
-                "source": "https://github.com/pboivin/filament-peek/tree/v2.2.4"
+                "source": "https://github.com/pboivin/filament-peek/tree/v2.0.0"
             },
-            "time": "2024-03-02T22:22:14+00:00"
+            "time": "2023-08-31T15:43:14+00:00"
         },
         {
             "name": "phpoption/phpoption",
