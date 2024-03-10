@@ -7,8 +7,6 @@ composer install
 
 cp .env.example .env
 
-touch database/database.sqlite
-
 php artisan migrate:fresh --seed
 
 php artisan storage:link
